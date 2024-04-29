@@ -1,8 +1,8 @@
 package bootstrap
 
 import (
-	"develop-template/pkg/support-go/helper/config"
 	"fmt"
+	"github.com/BioforestChain/dweb-browser-matrix-service-registration/pkg/support-go/helper/config"
 	sts "github.com/tencentyun/qcloud-cos-sts-sdk/go"
 )
 

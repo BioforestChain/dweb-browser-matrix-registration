@@ -1,9 +1,9 @@
 package bootstrap
 
 import (
-	"develop-template/pkg/support-go/helper/config"
-	redisHelper "develop-template/pkg/support-go/helper/redis"
 	"fmt"
+	"github.com/BioforestChain/dweb-browser-matrix-service-registration/pkg/support-go/helper/config"
+	redisHelper "github.com/BioforestChain/dweb-browser-matrix-service-registration/pkg/support-go/helper/redis"
 	redis "github.com/go-redis/redis/v8"
 	yCfg "github.com/olebedev/config"
 	"os"

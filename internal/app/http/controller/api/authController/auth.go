@@ -3,13 +3,13 @@
 package authController
 
 import (
-	"develop-template/internal/app/entity/req/authReqEntity"
-	"develop-template/internal/app/entity/resp/authRespEntity"
-	"develop-template/internal/app/error/common"
-	baseController "develop-template/internal/app/http/controller"
-	"develop-template/internal/app/logic/authLogic"
 	"encoding/json"
 	"fmt"
+	"github.com/BioforestChain/dweb-browser-matrix-service-registration/internal/app/entity/req/authReqEntity"
+	"github.com/BioforestChain/dweb-browser-matrix-service-registration/internal/app/entity/resp/authRespEntity"
+	"github.com/BioforestChain/dweb-browser-matrix-service-registration/internal/app/error/common"
+	baseController "github.com/BioforestChain/dweb-browser-matrix-service-registration/internal/app/http/controller"
+	"github.com/BioforestChain/dweb-browser-matrix-service-registration/internal/app/logic/authLogic"
 	"github.com/gin-gonic/gin"
 	jsonIter "github.com/json-iterator/go"
 	"io/ioutil"

@@ -1,7 +1,7 @@
 package controller
 
 import (
-	"develop-template/pkg/support-go/bootstrap"
+	"github.com/BioforestChain/dweb-browser-matrix-service-registration/pkg/support-go/bootstrap"
 	"github.com/go-playground/validator/v10"
 	"reflect"
 	"strconv"

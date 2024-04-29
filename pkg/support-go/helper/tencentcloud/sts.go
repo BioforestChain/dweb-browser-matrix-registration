@@ -1,9 +1,9 @@
 package tencentcloud
 
 import (
-	"develop-template/pkg/support-go/bootstrap"
-	"develop-template/pkg/support-go/entity"
 	"fmt"
+	"github.com/BioforestChain/dweb-browser-matrix-service-registration/pkg/support-go/bootstrap"
+	"github.com/BioforestChain/dweb-browser-matrix-service-registration/pkg/support-go/entity"
 
 	sts "github.com/tencentyun/qcloud-cos-sts-sdk/go"
 )

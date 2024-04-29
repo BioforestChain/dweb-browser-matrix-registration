@@ -1,9 +1,9 @@
 package config
 
 import (
-	"develop-template/pkg/support-go/bootstrap"
-	"develop-template/pkg/support-go/helper/config"
 	"fmt"
+	"github.com/BioforestChain/dweb-browser-matrix-service-registration/pkg/support-go/bootstrap"
+	"github.com/BioforestChain/dweb-browser-matrix-service-registration/pkg/support-go/helper/config"
 	"io/ioutil"
 	"os"
 )

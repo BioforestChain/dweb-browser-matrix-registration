@@ -2,7 +2,7 @@ package common
 
 import (
 	"context"
-	"develop-template/pkg/support-go/bootstrap"
+	"github.com/BioforestChain/dweb-browser-matrix-service-registration/pkg/support-go/bootstrap"
 	"github.com/gin-gonic/gin"
 	"time"
 )

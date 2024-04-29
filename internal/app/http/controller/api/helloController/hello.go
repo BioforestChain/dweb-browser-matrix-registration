@@ -1,7 +1,7 @@
 package helloController
 
 import (
-	baseController "develop-template/internal/app/http/controller"
+	baseController "github.com/BioforestChain/dweb-browser-matrix-service-registration/internal/app/http/controller"
 	"github.com/gin-gonic/gin"
 )
 

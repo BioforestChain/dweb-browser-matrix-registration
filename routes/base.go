@@ -1,10 +1,10 @@
 package router
 
 import (
-	"develop-template/routes/api/authRouter"
-	"develop-template/routes/api/helloRouter"
-	"develop-template/routes/api/rsaGenRouter"
-	"develop-template/routes/api/userRouter"
+	"github.com/BioforestChain/dweb-browser-matrix-service-registration/routes/api/authRouter"
+	"github.com/BioforestChain/dweb-browser-matrix-service-registration/routes/api/helloRouter"
+	"github.com/BioforestChain/dweb-browser-matrix-service-registration/routes/api/rsaGenRouter"
+	"github.com/BioforestChain/dweb-browser-matrix-service-registration/routes/api/userRouter"
 	"github.com/gin-gonic/gin"
 	"strings"
 )

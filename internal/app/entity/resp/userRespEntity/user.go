@@ -1,8 +1,8 @@
 package userRespEntity
 
 import (
-	"develop-template/internal/app/entity"
-	"develop-template/internal/app/entity/db/userDbEntity"
+	"github.com/BioforestChain/dweb-browser-matrix-service-registration/internal/app/entity"
+	"github.com/BioforestChain/dweb-browser-matrix-service-registration/internal/app/entity/db/userDbEntity"
 )
 
 // List 列表

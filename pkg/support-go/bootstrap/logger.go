@@ -1,9 +1,9 @@
 package bootstrap
 
 import (
-	"develop-template/pkg/support-go/helper/config"
-	"develop-template/pkg/support-go/helper/logger"
 	"fmt"
+	"github.com/BioforestChain/dweb-browser-matrix-service-registration/pkg/support-go/helper/config"
+	"github.com/BioforestChain/dweb-browser-matrix-service-registration/pkg/support-go/helper/logger"
 	"github.com/gin-gonic/gin"
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"

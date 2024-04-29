@@ -2,8 +2,8 @@ package common
 
 import (
 	"context"
-	myError "develop-template/internal/app/error"
-	"develop-template/pkg/support-go/bootstrap"
+	myError "github.com/BioforestChain/dweb-browser-matrix-service-registration/internal/app/error"
+	"github.com/BioforestChain/dweb-browser-matrix-service-registration/pkg/support-go/bootstrap"
 	"gorm.io/gorm"
 )
 

@@ -1,8 +1,8 @@
 package bootstrap
 
 import (
-	configHelper "develop-template/pkg/support-go/helper/config"
 	"fmt"
+	configHelper "github.com/BioforestChain/dweb-browser-matrix-service-registration/pkg/support-go/helper/config"
 )
 
 type emailConfig struct {

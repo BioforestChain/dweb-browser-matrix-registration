@@ -1,7 +1,7 @@
 package helloRouter
 
 import (
-	"develop-template/internal/app/http/controller/api/helloController"
+	"github.com/BioforestChain/dweb-browser-matrix-service-registration/internal/app/http/controller/api/helloController"
 	"github.com/gin-gonic/gin"
 )
 

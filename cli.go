@@ -1,7 +1,7 @@
 package main
 
 import (
-	"develop-template/internal/app/cmd"
+	"github.com/BioforestChain/dweb-browser-matrix-service-registration/internal/app/cmd"
 )
 
 func main() {

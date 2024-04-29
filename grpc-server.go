@@ -1,8 +1,8 @@
 package main
 
 import (
-	"develop-template/internal/constant"
-	"develop-template/pkg/support-go/bootstrap"
+	"github.com/BioforestChain/dweb-browser-matrix-service-registration/internal/constant"
+	"github.com/BioforestChain/dweb-browser-matrix-service-registration/pkg/support-go/bootstrap"
 	grpcHealth "google.golang.org/grpc/health"
 	"google.golang.org/grpc/health/grpc_health_v1"
 )

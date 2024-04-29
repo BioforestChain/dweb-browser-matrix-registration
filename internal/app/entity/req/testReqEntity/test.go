@@ -1,7 +1,7 @@
 package testReqEntity
 
 import (
-	"develop-template/internal/app/entity"
+	"github.com/BioforestChain/dweb-browser-matrix-service-registration/internal/app/entity"
 )
 
 // List 列表

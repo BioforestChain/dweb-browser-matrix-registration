@@ -1,8 +1,8 @@
 package rsaGenRouter
 
 import (
-	"develop-template/internal/app/http/controller/api/rsaGenController"
-	config2 "develop-template/internal/helper/config"
+	"github.com/BioforestChain/dweb-browser-matrix-service-registration/internal/app/http/controller/api/rsaGenController"
+	config2 "github.com/BioforestChain/dweb-browser-matrix-service-registration/internal/helper/config"
 	"github.com/gin-gonic/gin"
 )
 

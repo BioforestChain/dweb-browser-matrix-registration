@@ -1,10 +1,10 @@
 package userController
 
 import (
-	"develop-template/internal/app/entity/req/userReqEntity"
-	"develop-template/internal/app/error/common"
-	baseController "develop-template/internal/app/http/controller"
-	"develop-template/internal/app/logic/userLogic"
+	"github.com/BioforestChain/dweb-browser-matrix-service-registration/internal/app/entity/req/userReqEntity"
+	"github.com/BioforestChain/dweb-browser-matrix-service-registration/internal/app/error/common"
+	baseController "github.com/BioforestChain/dweb-browser-matrix-service-registration/internal/app/http/controller"
+	"github.com/BioforestChain/dweb-browser-matrix-service-registration/internal/app/logic/userLogic"
 	"github.com/gin-gonic/gin"
 )
 

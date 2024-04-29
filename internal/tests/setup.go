@@ -2,8 +2,8 @@ package tests
 
 import (
 	"context"
-	"develop-template/internal/app/model/common"
-	"develop-template/pkg/support-go/bootstrap"
+	"github.com/BioforestChain/dweb-browser-matrix-service-registration/internal/app/model/common"
+	"github.com/BioforestChain/dweb-browser-matrix-service-registration/pkg/support-go/bootstrap"
 	"github.com/gin-gonic/gin"
 	"gorm.io/gorm"
 	"testing"

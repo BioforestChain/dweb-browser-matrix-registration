@@ -1,7 +1,7 @@
 package userRouter
 
 import (
-	"develop-template/internal/app/http/controller/api/userController"
+	"github.com/BioforestChain/dweb-browser-matrix-service-registration/internal/app/http/controller/api/userController"
 	"github.com/gin-gonic/gin"
 )
 

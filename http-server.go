@@ -1,9 +1,9 @@
 package main
 
 import (
-	"develop-template/internal/constant"
-	"develop-template/pkg/support-go/bootstrap"
-	router "develop-template/routes"
+	"github.com/BioforestChain/dweb-browser-matrix-service-registration/internal/constant"
+	"github.com/BioforestChain/dweb-browser-matrix-service-registration/pkg/support-go/bootstrap"
+	router "github.com/BioforestChain/dweb-browser-matrix-service-registration/routes"
 	"github.com/gin-gonic/gin"
 )
 

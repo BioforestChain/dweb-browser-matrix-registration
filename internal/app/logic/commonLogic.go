@@ -1,7 +1,7 @@
 package logic
 
 import (
-	"develop-template/internal/app/constant"
+	"github.com/BioforestChain/dweb-browser-matrix-service-registration/internal/app/constant"
 	"math"
 )
 

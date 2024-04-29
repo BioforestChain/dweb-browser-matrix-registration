@@ -1,6 +1,6 @@
 package slices
 
-import "develop-template/pkg/support-go/helper/constraints"
+import "github.com/BioforestChain/dweb-browser-matrix-service-registration/pkg/support-go/helper/constraints"
 
 // Index returns the index of the first occurrence of v in s,
 // or -1 if not present.

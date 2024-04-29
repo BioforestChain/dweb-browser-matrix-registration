@@ -8,7 +8,7 @@ import (
 	redis "github.com/go-redis/redis/v8"
 	"time"
 
-	"develop-template/pkg/support-go/helper/number"
+	"github.com/BioforestChain/dweb-browser-matrix-service-registration/pkg/support-go/helper/number"
 )
 
 type RedisInstance struct {

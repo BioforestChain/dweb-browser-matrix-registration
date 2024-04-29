@@ -1,8 +1,8 @@
 package error
 
 import (
-	"develop-template/internal/app/error/mysql"
-	"develop-template/internal/app/error/newsPageError"
+	"github.com/BioforestChain/dweb-browser-matrix-service-registration/internal/app/error/mysql"
+	"github.com/BioforestChain/dweb-browser-matrix-service-registration/internal/app/error/newsPageError"
 )
 
 // NewMysqlError 实例化mysql错误

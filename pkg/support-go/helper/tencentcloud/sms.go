@@ -1,10 +1,10 @@
 package tencentcloud
 
 import (
-	"develop-template/pkg/support-go/bootstrap"
-	"develop-template/pkg/support-go/helper/slices"
 	"encoding/json"
 	"errors"
+	"github.com/BioforestChain/dweb-browser-matrix-service-registration/pkg/support-go/bootstrap"
+	"github.com/BioforestChain/dweb-browser-matrix-service-registration/pkg/support-go/helper/slices"
 	"github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/common"
 	"strings"
 )

@@ -3,7 +3,7 @@ package configService
 
 import (
 	"context"
-	siteCache "develop-template/internal/app/cache/site"
+	siteCache "github.com/BioforestChain/dweb-browser-matrix-service-registration/internal/app/cache/site"
 	"github.com/gin-gonic/gin"
 )
 

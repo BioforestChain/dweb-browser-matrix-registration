@@ -2,9 +2,9 @@ package userModel
 
 import (
 	"context"
-	"develop-template/internal/app/entity/db/userDbEntity"
-	myError "develop-template/internal/app/error"
-	"develop-template/internal/app/model/common"
+	"github.com/BioforestChain/dweb-browser-matrix-service-registration/internal/app/entity/db/userDbEntity"
+	myError "github.com/BioforestChain/dweb-browser-matrix-service-registration/internal/app/error"
+	"github.com/BioforestChain/dweb-browser-matrix-service-registration/internal/app/model/common"
 	"gorm.io/gorm"
 )
 

@@ -1,4 +1,4 @@
-module develop-template
+module github.com/BioforestChain/dweb-browser-matrix-service-registration
 
 go 1.22.1
 

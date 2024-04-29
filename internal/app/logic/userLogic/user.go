@@ -2,13 +2,13 @@ package userLogic
 
 import (
 	"context"
-	"develop-template/internal/app/entity/db/userDbEntity"
-	"develop-template/internal/app/entity/req/userReqEntity"
-	"develop-template/internal/app/entity/resp/userRespEntity"
-	myError "develop-template/internal/app/error"
-	commonLogic "develop-template/internal/app/logic"
-	"develop-template/internal/app/model/professional/userModel"
 	"fmt"
+	"github.com/BioforestChain/dweb-browser-matrix-service-registration/internal/app/entity/db/userDbEntity"
+	"github.com/BioforestChain/dweb-browser-matrix-service-registration/internal/app/entity/req/userReqEntity"
+	"github.com/BioforestChain/dweb-browser-matrix-service-registration/internal/app/entity/resp/userRespEntity"
+	myError "github.com/BioforestChain/dweb-browser-matrix-service-registration/internal/app/error"
+	commonLogic "github.com/BioforestChain/dweb-browser-matrix-service-registration/internal/app/logic"
+	"github.com/BioforestChain/dweb-browser-matrix-service-registration/internal/app/model/professional/userModel"
 	"github.com/gin-gonic/gin"
 )
 

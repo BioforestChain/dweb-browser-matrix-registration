@@ -12,10 +12,10 @@ package rsaGenController
 import (
 	"archive/zip"
 	"crypto/md5"
-	baseController "develop-template/internal/app/http/controller"
-	"develop-template/internal/app/logic/rsaGenLogic"
-	"develop-template/pkg/support-go/bootstrap"
 	"fmt"
+	baseController "github.com/BioforestChain/dweb-browser-matrix-service-registration/internal/app/http/controller"
+	"github.com/BioforestChain/dweb-browser-matrix-service-registration/internal/app/logic/rsaGenLogic"
+	"github.com/BioforestChain/dweb-browser-matrix-service-registration/pkg/support-go/bootstrap"
 	"github.com/gin-gonic/gin"
 	"io"
 	"net/http"

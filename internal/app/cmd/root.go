@@ -3,7 +3,7 @@ package cmd
 import (
 	"os"
 
-	"develop-template/pkg/support-go/bootstrap"
+	"github.com/BioforestChain/dweb-browser-matrix-service-registration/pkg/support-go/bootstrap"
 	"github.com/spf13/cobra"
 )
 

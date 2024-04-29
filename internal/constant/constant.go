@@ -1,7 +1,7 @@
 package constant
 
 const (
-	ProjectName         = "develop-template"
+	ProjectName         = "github.com/BioforestChain/dweb-browser-matrix-service-registration"
 	HttpServiceHostPort = ":8989"
 	GrpcServiceHostPort = ":50052"
 )

@@ -3,7 +3,7 @@ package curl
 import (
 	"bytes"
 	"crypto/tls"
-	strLib "develop-template/pkg/support-go/helper/strings"
+	strLib "github.com/BioforestChain/dweb-browser-matrix-service-registration/pkg/support-go/helper/strings"
 	"io"
 	"net/http"
 	"reflect"

@@ -2,7 +2,7 @@ package tencentcloud
 
 import (
 	"context"
-	"develop-template/pkg/support-go/bootstrap"
+	"github.com/BioforestChain/dweb-browser-matrix-service-registration/pkg/support-go/bootstrap"
 	"github.com/tencentyun/cos-go-sdk-v5/debug"
 	"net/http"
 	"net/url"

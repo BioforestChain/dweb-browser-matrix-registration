@@ -2,8 +2,8 @@
 package bootstrap
 
 import (
-	"develop-template/pkg/support-go/helper/config"
 	"fmt"
+	"github.com/BioforestChain/dweb-browser-matrix-service-registration/pkg/support-go/helper/config"
 )
 
 type Config struct {
