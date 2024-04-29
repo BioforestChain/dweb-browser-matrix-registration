@@ -1,3 +1,0 @@
-curl:
-  apibaidudomain: "https://api.baidu.com"
-  getTestData: "/json/tongji/v1/ReportService/getData"
